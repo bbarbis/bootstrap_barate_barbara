@@ -1,0 +1,16 @@
+.container{
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+header{
+    grid-area: h;
+}
+nav{
+    grid-area: n;
+}
+article{
+    grid-area: a;
+}
+aside{
+    grid-area: as;
+}
